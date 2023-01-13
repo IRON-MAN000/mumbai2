@@ -21,3 +21,4 @@ word.set(tokenizer.nextToken());
 output.collect(word, one);
 }
 }
+}
